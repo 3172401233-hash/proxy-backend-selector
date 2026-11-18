@@ -1,0 +1,14 @@
+{
+  "name": "proxy-backend-selector",
+  "version": "1.0.0",
+  "description": "支持权重、在途请求、延迟感知、平滑摘挂和会话亲和的 Node.js 后端选择器",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
